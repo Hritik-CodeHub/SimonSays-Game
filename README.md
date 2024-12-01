@@ -15,8 +15,7 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. Challen
 - JavaScript: For the game logic and interactivity.  
 
 ## Screenshots  
-(Add screenshots of your game interface here)  
-
+![simon says](https://github.com/user-attachments/assets/bf179920-112e-4b34-9430-75760b780bee)
 ## Contributing  
 Contributions are welcome! Feel free to fork this repository and submit a pull request.  
 
